@@ -1,4 +1,3 @@
-alert("Script loaded");
 function generate() {
 
  const mood = document.getElementById("mood").value;
