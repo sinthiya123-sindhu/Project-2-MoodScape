@@ -17,7 +17,7 @@ function generate() {
  }
 
  let bg, msg, song, task;
- if (mood === "happy") {
+if (mood === "happy") {
 
  bg = "linear-gradient(to right, #f7971e, #ffd200)";
 
@@ -66,7 +66,7 @@ function generate() {
  }
 
  if (mood === "excited") {
- bg = "linear-gradient(to right, #fc4a1a, #f7b733)";
+bg = "linear-gradient(to right, #fc4a1a, #f7b733)";
 
  msg = "Your energy is contagious — go create something amazing ";
 
