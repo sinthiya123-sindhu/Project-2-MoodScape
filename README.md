@@ -1,4 +1,4 @@
-# SkillSprout MoodScape 🌈
+# MoodScape 🌈
 
 An Emotion-Based Experience Generator. Pick your mood and get a matching message, music suggestion, and mini challenge.
 
